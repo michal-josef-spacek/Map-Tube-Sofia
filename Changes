@@ -2,6 +2,7 @@
  - Improve SYNOPSIS section in doc.
  - Move bugtracker to github.
  - Update author github username.
+ - Update dependency to Map::Tube (Thanks MANWAR).
 
 0.09 2025-01-22T08:53:30+01:00
  - Rename example files to better names.
