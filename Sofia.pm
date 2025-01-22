@@ -117,6 +117,8 @@ For more information about Sofia Map, click L<here|https://en.wikipedia.org/wiki
 
 =head1 EXAMPLE1
 
+=for comment filename=print_sofia_route.pl
+
  # Pragmas.
  use strict;
  use warnings;
@@ -139,6 +141,8 @@ For more information about Sofia Map, click L<here|https://en.wikipedia.org/wiki
 
 =head1 EXAMPLE2
 
+=for comment filename=print_sofia_def_xml_file.pl
+
  # Pragmas.
  use strict;
  use warnings;
@@ -159,6 +163,8 @@ For more information about Sofia Map, click L<here|https://en.wikipedia.org/wiki
  # XML file: .*/sofia-map.xml
 
 =head1 EXAMPLE3
+
+=for comment filename=print_sofia_image.pl
 
  # Pragmas.
  use strict;
@@ -197,6 +203,8 @@ For more information about Sofia Map, click L<here|https://en.wikipedia.org/wiki
 
 =head1 EXAMPLE4
 
+=for comment filename=print_sofia_lines.pl
+
  # Pragmas.
  use strict;
  use warnings;
@@ -219,6 +227,8 @@ For more information about Sofia Map, click L<here|https://en.wikipedia.org/wiki
  # Първи метродиаметър
 
 =head1 EXAMPLE5
+
+=for comment filename=print_sofia_line_stations.pl
 
  # Pragmas.
  use strict;
