@@ -1,11 +1,9 @@
 package Map::Tube::Sofia;
 
-# Pragmas.
 use strict;
 use warnings;
 use 5.006;
 
-# Modules.
 use File::Share ':all';
 use Moo;
 use namespace::clean;
@@ -119,11 +117,9 @@ For more information about Sofia Map, click L<here|https://en.wikipedia.org/wiki
 
 =for comment filename=print_sofia_route.pl
 
- # Pragmas.
  use strict;
  use warnings;
 
- # Modules.
  use Encode qw(decode_utf8 encode_utf8);
  use Map::Tube::Sofia;
 
@@ -143,11 +139,9 @@ For more information about Sofia Map, click L<here|https://en.wikipedia.org/wiki
 
 =for comment filename=print_sofia_def_xml_file.pl
 
- # Pragmas.
  use strict;
  use warnings;
 
- # Modules.
  use Map::Tube::Sofia;
 
  # Object.
@@ -166,11 +160,9 @@ For more information about Sofia Map, click L<here|https://en.wikipedia.org/wiki
 
 =for comment filename=print_sofia_image.pl
 
- # Pragmas.
  use strict;
  use warnings;
 
- # Modules.
  use Map::Tube::GraphViz;
  use Map::Tube::GraphViz::Utils qw(node_color_without_label);
  use Map::Tube::Sofia;
@@ -205,11 +197,9 @@ For more information about Sofia Map, click L<here|https://en.wikipedia.org/wiki
 
 =for comment filename=print_sofia_lines.pl
 
- # Pragmas.
  use strict;
  use warnings;
 
- # Modules.
  use Encode qw(encode_utf8);
  use Map::Tube::Sofia;
 
@@ -230,11 +220,9 @@ For more information about Sofia Map, click L<here|https://en.wikipedia.org/wiki
 
 =for comment filename=print_sofia_line_stations.pl
 
- # Pragmas.
  use strict;
  use warnings;
 
- # Modules.
  use Encode qw(decode_utf8 encode_utf8);
  use Map::Tube::Sofia;
 
