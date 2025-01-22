@@ -188,8 +188,8 @@ For more information about Sofia Map, click L<here|https://en.wikipedia.org/wiki
 
 =begin html
 
-<a href="https://raw.githubusercontent.com/tupinek/Map-Tube-Sofia/master/images/Sofia.png">
-  <img src="https://raw.githubusercontent.com/tupinek/Map-Tube-Sofia/master/images/Sofia.png" alt="Софийско метро" width="300px" height="300px" />
+<a href="https://raw.githubusercontent.com/michal-josef-spacek/Map-Tube-Sofia/master/images/Sofia.png">
+  <img src="https://raw.githubusercontent.com/michal-josef-spacek/Map-Tube-Sofia/master/images/Sofia.png" alt="Софийско метро" width="300px" height="300px" />
 </a>
 
 =end html
@@ -290,7 +290,7 @@ Install the Map::Tube concrete metro modules.
 
 =head1 REPOSITORY
 
-L<https://github.com/tupinek/Map-Tube-Sofia>
+L<https://github.com/michal-josef-spacek/Map-Tube-Sofia>
 
 =head1 AUTHOR
 
