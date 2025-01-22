@@ -1,5 +1,6 @@
 0.09
  - Rename example files to better names.
+ - Rename image file to better name.
  - Update Module::Install to 1.21 version.
  - Update copyright years.
 

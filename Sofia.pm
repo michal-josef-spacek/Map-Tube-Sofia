@@ -195,8 +195,8 @@ For more information about Sofia Map, click L<here|https://en.wikipedia.org/wiki
 
 =begin html
 
-<a href="https://raw.githubusercontent.com/tupinek/Map-Tube-Sofia/master/images/ex3.png">
-  <img src="https://raw.githubusercontent.com/tupinek/Map-Tube-Sofia/master/images/ex3.png" alt="Софийско метро" width="300px" height="300px" />
+<a href="https://raw.githubusercontent.com/tupinek/Map-Tube-Sofia/master/images/Sofia.png">
+  <img src="https://raw.githubusercontent.com/tupinek/Map-Tube-Sofia/master/images/Sofia.png" alt="Софийско метро" width="300px" height="300px" />
 </a>
 
 =end html
